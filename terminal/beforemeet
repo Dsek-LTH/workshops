@@ -1,4 +1,3 @@
-## Instruktioner skriver vi här
 Plancher
 boka idéet?
 windows
@@ -54,4 +53,7 @@ Installera följande program:
 
 Hitta en map där du vill du vill köra projektet i utforskaren, högerklicka och välj "open git bash here"
 Vi behöver ett program till, installera det genom att köra `pip install tldr`
+
+
+
 
