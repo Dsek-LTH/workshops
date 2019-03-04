@@ -48,7 +48,7 @@ Med hjälp av kommandona `pwd`, `ls` och `echo` (och `tldr`) gör så att skript
 Testa även att köra joelsbrascript.sh. Om allt går fel tryck ctrl+c för att avbryta.
 
 # Fler kommandon
-Med hjälp av tldr, find, grep och wc gör följande uppgifter. (Tips använd . för att referera till mappen du är i)
+Med hjälp av tldr, find, grep, sort och wc gör följande uppgifter. (Tips använd . för att referera till mappen du är i)
 
 Hitta 
 
@@ -71,12 +71,5 @@ Med hjälp av tldr, rm, mv, cp, mkdir
 * wc - word count
 * rm - remove 
 * cp - copy
-* alia
+* alias
 
-
-
- senare
- pipe 
- $1
-chmod ./
- ssh till skolan
