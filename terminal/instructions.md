@@ -39,6 +39,7 @@ Man kan skriva resultat av kommadon till en fil med hjälp av >>-tecknet
 Testa `ls >> filer.txt` och titta på resultatet
 
 # Enkla script
+
 Det finns ett program som heter `echo`, vad gör den? Använd `tldr echo` för att läsa mer.
 I mappen finns ett enkelt skript (kallat simplescript.sh) detta kan köras genom `bash simplescript.sh`
 Öppna filen med nano, du kan spara och avsluta med ctrl+x och sen y + enter.
@@ -48,11 +49,17 @@ Med hjälp av kommandona `pwd`, `ls` och `echo` (och `tldr`) gör så att skript
 Testa även att köra joelsbrascript.sh. Om allt går fel tryck ctrl+c för att avbryta.
 
 # Fler kommandon
-Med hjälp av tldr, find, grep, sort och wc gör följande uppgifter. (Tips använd . för att referera till mappen du är i)
 
-Hitta 
+Med hjälp av tldr, find, grep, sort och wc gör följande uppgifter. (Tips använd . för att referera till mappen du är i och \* för alla filer i mappen du är i)
 
-Med hjälp av tldr, rm, mv, cp, mkdir
+* Det finns en mapp som heter filer, och där finns en massa skräp. Bland skräpet finns hemlig information i en fil som heter "hemlisar"! Hitta hemlisarna.
+* I mappen filer finns filen uttryck.txt. Hur många utryck finns där? (en per rad)
+* Utrycken ligger i oordning :( skapa en ny fil där de är i ordning! :D
+
+* Någonstanns finns en map som heter "böcker", hitta denna. (tips, en av böckerna heter dracula.txt)
+* Hur många gånger nämns "whale" i moby dick?
+* Skapa en sorterad lista av böcker efter ordlängd.
+* Hur många filer som slutar med .txt finns det totalt i mappen "filer"?
 
 # Kommandon och koncept som används i workshoppen
 
@@ -69,7 +76,8 @@ Med hjälp av tldr, rm, mv, cp, mkdir
 * find - hittar filer
 * grep - letar bland filer efter text bland filer
 * wc - word count
-* rm - remove 
+* rm - remove
 * cp - copy
+* mv - move
+* mkdir - make directory
 * alias
-
