@@ -1,11 +1,3 @@
-## Instruktioner skriver vi här
-
-Plancher
-boka idéet?
-windows
-Ladda hem ett gitrepo, där finns filer
-http://www.ee.surrey.ac.uk/Teaching/Unix/
-
 # Uppstart
 
 ## Linux
@@ -19,6 +11,7 @@ Installera följande program:
 * Git Bash -> https://git-scm.com/download/win
   När installerna frågar om du vill använda vim eller nano, välj nano. Det är inte hela världen om det blir fel.
 * Python -> https://www.python.org/downloads/release/python-372/
+    - check 'add python environmental variables'
 
 Hitta en map där du vill du vill köra projektet i utforskaren, högerklicka och välj "open git bash here"
 Vi behöver ett program till, installera det genom att köra `pip install tldr`
