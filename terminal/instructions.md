@@ -39,7 +39,7 @@ Tips: när du skrivit början att ett filnamn kan du trycka tab så försöker d
 
 Man kan skriva resultat av kommadon till en fil med hjälp av >>-tecknet
 
-Testa `ls >> filer.txt` och titta på resultatet
+Testa `ls >> filer.txt` och titta på resultatet. Det är vanligt i linux att skapa filer automatiskt om de inte finns.
 
 # Enkla script
 
@@ -57,7 +57,7 @@ Testa även att köra joelsbrascript.sh. Om allt går fel tryck ctrl+c för att 
 
 # Fler kommandon
 
-Med hjälp av tldr, find, grep, sort och wc gör följande uppgifter. (Tips använd . för att referera till mappen du är i och \* för alla filer i mappen du är i)
+Med hjälp av tldr, find, grep, sort och wc gör följande uppgifter. (Tips använd . för att referera till mappen du är i och \* för alla filer i mappen du är i. Med uttrycket root path eller likandne menas en mapp helt enkelt)
 
 * Det finns en mapp som heter filer, och där finns en massa skräp. Bland skräpet finns hemlig information i en fil som heter "hemlisar"! Hitta hemlisarna.
 * I mappen filer finns filen uttryck.txt. Hur många utryck finns där? (en per rad)
